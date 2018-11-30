@@ -4,6 +4,20 @@
 
 *  fix script on travis ([bc306993](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/bc3069938fa7f805f8dcc290a67cbf41e9248597))
 
+##### Documentation Changes
+
+* **CHANGELOG.md:**  :bookmark: updated CHANGELOG.md ([7394b001](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/7394b0011522b97633c04f30e2491b707e877b59))
+
+##### Code Style Changes
+
+*  style package.json ([1ac6e456](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/1ac6e4561b798617f287fad1c26b11db22b514b2))
+
+#### 0.0.2 (2018-11-30)
+
+##### Continuous Integration
+
+*  fix script on travis ([bc306993](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/bc3069938fa7f805f8dcc290a67cbf41e9248597))
+
 #### 0.0.1 (2018-11-30)
 
 ##### Documentation Changes
