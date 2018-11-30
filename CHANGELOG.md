@@ -1,3 +1,9 @@
+#### 0.0.4 (2018-11-30)
+
+##### Bug Fixes
+
+*  fix main field in package.json ([ecfece73](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/ecfece73a308eaadc7f9c5e88b2fa4e40aa1f1a0))
+
 #### 0.0.3 (2018-11-30)
 
 ##### Documentation Changes
