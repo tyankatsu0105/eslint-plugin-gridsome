@@ -17,9 +17,8 @@ $ yarn add eslint-plugin-gridsome vue-eslint-parser -D
 module.exports = {
   plugins: ["gridsome"],
   rules: {
-    "gridsome/page-query": "error,
+    "gridsome/page-query": "error"
   },
   parser: "vue-eslint-parser"
 };
-
 ```
