@@ -7,6 +7,12 @@
   },
   "license": "MIT",
   "author": "tyankatsu <frips.ryilsufupe+dev@gmail.com> (https://tyankatsu.hatenablog.com/)",
+  "files": [
+    "LICENSE",
+    "README.md",
+    "lib",
+    "package.json"
+  ],
   "main": "index.js",
   "repository": {
     "type": "git",
@@ -26,12 +32,9 @@
   "config": {
     "changelog": "https://github.com/tyankatsu0105/eslint-plugin-gridsome"
   },
-  "files": [
-    "LICENSE",
-    "README.md",
-    "lib",
-    "package.json"
-  ],
+  "dependencies": {
+    "prettier": "^1.15.3"
+  },
   "devDependencies": {
     "commitizen": "^3.0.5",
     "cz-conventional-changelog": "^2.1.0",
@@ -45,8 +48,5 @@
     "mocha": "^5.2.0",
     "npm-run-all": "^4.1.5",
     "vue-eslint-parser": "^3.3.0"
-  },
-  "dependencies": {
-    "prettier": "^1.15.3"
   }
 }

@@ -6,20 +6,20 @@ This is eslint plugin for [Gridsome](https://gridsome.org/).
 
 ## usage
 
-## test(Unit test used mocha)
-
 ```bash
-$ yarn test
-
-# if you see fix
-$ yarn test
+$ yarn add eslint-plugin-gridsome vue-eslint-parser -D
 ```
 
-## test(lint)
+```javascript
+// .eslintrc.*
+// this is .eslintrc.js
 
-```bash
-$ yarn lint
+module.exports = {
+  plugins: ["gridsome"],
+  rules: {
+    "gridsome/page-query": "error,
+  },
+  parser: "vue-eslint-parser"
+};
 
-# if you see fix
-$ yarn lint
 ```
