@@ -13,7 +13,7 @@
     "lib",
     "package.json"
   ],
-  "main": "index.js",
+  "main": "lib/index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tyankatsu0105/eslint-plugin-gridsome.git"
