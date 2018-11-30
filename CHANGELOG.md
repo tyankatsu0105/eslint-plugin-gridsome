@@ -1,3 +1,9 @@
+#### 0.0.5 (2018-11-30)
+
+##### Documentation Changes
+
+*  refactor README.md ([3994d35d](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/3994d35d844a6358d389ff43d18a5e0dd7963976))
+
 #### 0.0.4 (2018-11-30)
 
 ##### Bug Fixes
