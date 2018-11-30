@@ -1,3 +1,9 @@
+#### 0.0.2 (2018-11-30)
+
+##### Continuous Integration
+
+*  fix script on travis ([bc306993](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/bc3069938fa7f805f8dcc290a67cbf41e9248597))
+
 #### 0.0.1 (2018-11-30)
 
 ##### Documentation Changes
