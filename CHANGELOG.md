@@ -1,3 +1,9 @@
+#### 0.0.3 (2018-11-30)
+
+##### Documentation Changes
+
+*  fix example code in README.md ([09d4beb5](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/09d4beb55913fb634ddab70e1576282fa46c143e))
+
 #### 0.0.2 (2018-11-30)
 
 ##### Continuous Integration
