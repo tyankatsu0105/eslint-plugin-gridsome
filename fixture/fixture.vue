@@ -2,7 +2,7 @@
   <div>aaaa</div>
 </template>
 <script>
-    const script = 111;
+const script = 111;
 </script>
 
 <page-query>
@@ -11,7 +11,6 @@ query Blog {
     edges {
       node {
         id
-
         title
       }
     }
