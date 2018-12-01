@@ -1,3 +1,15 @@
+#### 0.0.7 (2018-12-01)
+
+##### Documentation Changes
+
+*  add status badge ([bbf1b320](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/bbf1b320874c7b1d19034f2c445c8523fe0bf7ce))
+*  add how to commit ([bcfca529](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/bcfca5297e76d5a2a71370018068f9a4c2684691))
+
+##### Refactors
+
+*  update yarn.lock ([fc10e8f1](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/fc10e8f1bb4fc33e5ca5a7ddc45ca28f851e1d96))
+*  remove unused package ([59fc8594](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/59fc85947035a99ceaafab4c23ad73e7361b4dcc))
+
 #### 0.0.6 (2018-12-01)
 
 ##### Refactors
