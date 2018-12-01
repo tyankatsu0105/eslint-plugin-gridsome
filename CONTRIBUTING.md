@@ -2,9 +2,6 @@
 
 ```bash
 $ yarn test
-
-# if you see fix
-$ yarn test
 ```
 
 ## test(lint)
@@ -14,4 +11,12 @@ $ yarn lint
 
 # if you see fix
 $ yarn lint
+```
+
+## commit
+
+Using `commitizen`
+
+```
+$ yarn commit
 ```
