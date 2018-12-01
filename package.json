@@ -1,6 +1,12 @@
 {
   "name": "eslint-plugin-gridsome",
   "version": "0.0.5",
+  "keywords": [
+    "eslint",
+    "eslintplugin",
+    "vue",
+    "gridsome"
+  ],
   "homepage": "https://github.com/tyankatsu0105/eslint-plugin-gridsome",
   "bugs": {
     "url": "https://github.com/tyankatsu0105/eslint-plugin-gridsome/issues"
