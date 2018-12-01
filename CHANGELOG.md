@@ -1,3 +1,9 @@
+#### 0.0.6 (2018-12-01)
+
+##### Refactors
+
+*  add keywords ([0f77b502](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/0f77b5029370685d19eaaf0db77bea0745f90862))
+
 #### 0.0.5 (2018-11-30)
 
 ##### Documentation Changes
