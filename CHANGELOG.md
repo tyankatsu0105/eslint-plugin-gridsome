@@ -1,3 +1,15 @@
+### 0.1.0 (2018-12-02)
+
+##### Documentation Changes
+
+*  change eslint sample ([817154b8](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/817154b835fca464810c4c7231b7ead7bdb87e5c))
+*  add rodemap in README ([b57fd8e6](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/b57fd8e6ad334e6a2ddc15d8d41e9bcf644526d7))
+*  add github ISSUE_TEMPLATE ([b23aa9e5](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/b23aa9e5994cf69f526aaa7ce38f5e5d6546eee9))
+
+##### New Features
+
+*  add fix target static-query ([a625d05a](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/a625d05a66030af4bd8388a70117b1f0af829d9a))
+
 #### 0.0.7 (2018-12-01)
 
 ##### Documentation Changes
