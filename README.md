@@ -33,4 +33,4 @@ module.exports = {
 ## Roadmap
 - [ ] Rule's docs
 - [ ] Utility
-- [ ] Rule for `<static-query>`
+- [x] Rule for `<static-query>`
