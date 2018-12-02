@@ -24,7 +24,7 @@ module.exports = {
   },
   plugins: ["gridsome"],
   rules: {
-    "gridsome/page-query": "error"
+    "gridsome/format-query-block": "error"
   },
   parser: "vue-eslint-parser"
 };
