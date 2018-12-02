@@ -18,6 +18,14 @@ query Blog {
 }
 </page-query>
 
+<static-query>
+query Example {
+  example: examplePage(path: "/docs/example") {
+    content
+  }
+}
+</static-query>
+
 <style lang="scss" scoped>
 div {
   font-size: 2rem;

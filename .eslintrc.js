@@ -7,6 +7,6 @@ module.exports = {
   plugins: ["prettier"],
   rules: {
     "prettier/prettier": "error",
-    "page-query": 2,
+    "format-query-block": 2,
   }
 };
