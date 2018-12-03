@@ -30,7 +30,7 @@ module.exports = {
 };
 ```
 
-## Roadmap
-- [ ] Rule's docs
+ ## Roadmap for v1.0
+- [x] Rule's docs
 - [ ] Utility
 - [x] Rule for `<static-query>`
