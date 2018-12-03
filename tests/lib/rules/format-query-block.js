@@ -75,7 +75,7 @@ query Blog {
 }
 </page-query>
     `,
-      errors: ["format is incorrect"]
+      errors: ["page-query code format is incorrect"]
     },
     {
       code: `
@@ -98,7 +98,7 @@ query Example {
 }
 </static-query>
     `,
-      errors: ["format is incorrect"]
+      errors: ["static-query code format is incorrect"]
     }
   ]
 });
