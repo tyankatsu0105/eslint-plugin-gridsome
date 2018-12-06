@@ -1,5 +1,3 @@
-🚧WIP🚧
-
 # eslint-plugin-gridsome
 
 [![npm version](https://badge.fury.io/js/eslint-plugin-gridsome.svg)](https://badge.fury.io/js/eslint-plugin-gridsome)
@@ -29,8 +27,3 @@ module.exports = {
   parser: "vue-eslint-parser"
 };
 ```
-
- ## Roadmap for v1.0
-- [x] Rule's docs
-- [ ] Utility
-- [x] Rule for `<static-query>`
