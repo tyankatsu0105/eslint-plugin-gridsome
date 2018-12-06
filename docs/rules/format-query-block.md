@@ -1,9 +1,9 @@
-# # enforce consistent format style in query block ex) `<page-query>`,`<static-query>`(gridsome/format-query-block)
+## enforce consistent format style in query block ex) `<page-query>`,`<static-query>`(gridsome/format-query-block)
 
 - :wrench: The `--fix` option on the [command line](https://eslint.org/docs/user-guide/command-line-interface#fixing-problems) can automatically fix some of the problems reported by this rule.
 
-- This rule checks whether it is expected that code in `<page-query>` and `<static-query>`. 
-- This rule's formatter is [Prettier](https://prettier.io).  [Parser is `graphql`](https://prettier.io/docs/en/options.html#parser)
+- This rule checks the consistency of a code in `<page-query>` and `<static-query>` tags.
+- This rule's formatter is [Prettier](https://prettier.io). [Parser is `graphql`](https://prettier.io/docs/en/options.html#parser)
 
 ## :book: Rule Details
 
@@ -11,24 +11,13 @@
 
 ```html
 <page-query>
-    query Blog {
-          allWordPressPost   (limit: 5) {
-    edges {
-              node {
-        id
-                    title
-        }
-          }}
-    }
+  query Blog { allWordPressPost (limit: 5) { edges { node { id title } }} }
 </page-query>
 ```
 
 ```html
 <static-query>
-        query Example {
-      example: examplePage(path: "/docs/example") {
-        content
-          }}
+  query Example { example: examplePage(path: "/docs/example") { content }}
 </static-query>
 ```
 
@@ -36,26 +25,13 @@
 
 ```html
 <page-query>
-query Blog {
-  allWordPressPost(limit: 5) {
-    edges {
-      node {
-        id
-        title
-      }
-    }
-  }
-}
+  query Blog { allWordPressPost(limit: 5) { edges { node { id title } } } }
 </page-query>
 ```
 
 ```html
 <static-query>
-query Example {
-  example: examplePage(path: "/docs/example") {
-    content
-  }
-}
+  query Example { example: examplePage(path: "/docs/example") { content } }
 </static-query>
 ```
 
