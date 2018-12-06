@@ -1,3 +1,20 @@
+## 1.0.0 (2018-12-06)
+
+##### Documentation Changes
+
+*  refactor README ([f372e6fc](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/f372e6fc6bc24c3d79a86663e348ec43e16d7c8c))
+*  refactor rule doc ([06d51b67](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/06d51b679e8b4baee124bc886c1ac3e37b85a372))
+*  roadmap status change ([5e826898](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/5e8268989bc1a69d1e5f6f7e5be026332e25737b))
+*  roadmap status change ([430e7377](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/430e7377607379161d3684b8f02363568baf79b1))
+
+##### New Features
+
+*  create rule's document ([b33fe51e](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/b33fe51ea885b22a07e1bfb251b1d9a2c3202ac8))
+
+##### Refactors
+
+*  change lint error message ([f3ad7b92](https://github.com/tyankatsu0105/eslint-plugin-gridsome/commit/f3ad7b92c3437f31b896c59632010162d79c8608))
+
 ### 0.1.0 (2018-12-02)
 
 ##### Documentation Changes
